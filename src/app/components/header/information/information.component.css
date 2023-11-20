@@ -1,0 +1,37 @@
+
+.information__container{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.information__container p{
+  margin: .5rem;
+}
+
+.information__container p::before{
+  content:'';
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-right: .5rem;
+}
+
+.information__container .job::before{
+  background-image: url('../../../../assets/img/icons/job.svg');
+}
+
+.information__container .location::before{
+  background-image: url('../../../../assets/img/icons/location.svg');
+}
+
+.information__container .phone::before{
+  background-image: url('../../../../assets/img/icons/phone.svg');
+}
+
+.information__container .mail::before{
+  background-image: url('../../../../assets/img/icons/email.svg');
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Fernanda Pestana",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Desenvolvedor de Software Backend",
+  "location": "São Luís - MA",
+  "phone": "(98) 98814 - 8174",
+  "email": "pestanafj@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Facilidade de Aprendizado",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Facilidade com tarefas práticas",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR (nativo)",
+    "Inglês (básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "NoriPDV",
+      "url": "https://github.com/pestanafj/NoriPDV",
+      "github": true
+    },
+    {
+      "name": "BudgetBuddyAPI",
+      "url": "https://github.com/pestanafj/BudgetBuddyAPI",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Assistente Administrativo Freelancer / Intergraf",
+      "period": "2010-2023",
+      "description": "Recebimento e envio de correspondências, controle de contas a pagar e a receber, emissão de notas fiscais, acompanhamento de trabalho logístico, cotação de preços demateriais, auxílio ao gerente com questões práticas da rotina como preparar documentos, controle de material de expediente e responder e-mails.Recebimento e envio de correspondências, controle de contas a pagar e a receber, emissão de notas fiscais, acompanhamento de trabalho logístico, cotação de preços demateriais, auxílio ao gerente com questões práticas da rotina como preparar documentos, controle de material de expediente e responder e-mails. Competências: Pensamento crítico · Relacionamentos interpessoais · Clientes internos · Planilha eletrônica · Resolução de problemas · Capacidade de organização · Trabalho em equipe",
+    },
+    {
+      "name": "Designer Gráfico Freelancer / Intergraf",
+      "period": "2010-2023",
+      "description": "Criação e desenvolvimento de artes para serviços gráficos (cartões, formulários, logomarcas, identidades visuais, etc.)Criação e desenvolvimento de artes para serviços gráficos (cartões, formulários, logomarcas, identidades visuais, etc.) Competências: Pensamento crítico · Relacionamentos interpessoais · Clientes internos · Trabalho em equipe · Corel Draw"
+    },
+    {
+      "name": "Técnico Administrativo III / Ambev",
+      "period": "2008 - 2010",
+      "description": "Recebimento, lançamento e acompanhamento de notas fiscais de fornecedores de contas a pagar. Utilização de sistemas SIV, SAP e Promax. Síndico predial, Monitoramento de condições de infraestrutura predial, gerenciamento da mão de obra de serviços gerais, gestão de fundo fixo e material de expediente. Gestor de Frota, responsável pelos veículos (carros e motos) da frota da empresa, fiscalizar e garantir diariamente boas condições de funcionamento, garantir manutenções preventivas e corretivas de todos os veículos, lidar com fornecedores e as demandas da equipe que pudessem surgir.Recebimento, lançamento e acompanhamento de notas fiscais de fornecedores de contas a pagar. Utilização de sistemas SIV, SAP e Promax. Síndico predial, Monitoramento de condições de infraestrutura predial, gerenciamento da mão de obra de serviços gerais, gestão de fundo fixo e material de expediente. Gestor de Frota, responsável pelos veículos (carros e motos) da frota da empresa, fiscalizar e garantir diariamente boas condições de funcionamento, garantir manutenções preventivas e corretivas de todos os veículos, lidar com fornecedores e as demandas da equipe que pudessem surgir. Competências: Pensamento crítico · Gestão da frotas de veículos · Cotação de preços · Relacionamentos interpessoais · Clientes internos · Planilha eletrônica · Resolução de problemas · Capacidade de organização · Trabalho em equipe · Microsoft Office"
+    },
+    {
+      "name": "Estágio / Ambev",
+      "period": "2008 - 2010",
+      "description": "Extra-Curricular com duração de 18 meses na área de Apuração de Resultados. Consolidação de dados, desenvolvimento de planilhas e emissão de relatórios visando apuração diária de resultados. em vendas.Extra-Curricular com duração de 18 meses na área de Apuração de Resultados. Consolidação de dados, desenvolvimento de planilhas e emissão de relatórios visando apuração diária de resultados. em vendas. Competências: Pensamento crítico · Relatórios e análises · Relacionamentos interpessoais · Banco de dados · Apresentações · Clientes internos · Planilha eletrônica · Resolução de problemas · Capacidade de organização · Trabalho em equipe · Microsoft Office · Microsoft Excel"
+    }
+  ]
+}

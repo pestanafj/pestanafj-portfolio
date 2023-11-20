@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+@font-face {
+  font-family: 'Neue Machina';
+  src: url("./assets/fonts/neue-machina-regular.otf");
+}
+
+body{
+  background: rgb(247,145,177);
+  background: linear-gradient(151deg, rgba(247,145,177,1) 0%, rgba(230,98,213,1) 9%, rgba(83,30,127,1) 21%, rgba(0,0,0,1) 37%, rgba(5,6,15,1) 62%, rgba(41,57,138,1) 71%, rgba(112,151,212,1) 79%, rgba(113,78,219,1) 86%, rgba(144,66,128,1) 92%, rgba(168,45,61,1) 100%);
+  color:white;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+
+}
