@@ -1,4 +1,4 @@
-.acordeon__container{
+.accordeon__container{
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -9,7 +9,7 @@
   transition: 0.5s;
 }
 
-.acordeon__container .trigger{
+.accordeon__container .trigger{
   display: flex;
   flex-direction:row;
   justify-content: space-between;
@@ -27,40 +27,40 @@
 
 }
 
-.acordeon__container .trigger::after{
+.accordeon__container .trigger::after{
   content:'';
   display: inline-block;
   width: 1.5rem;
   height: 1.5rem;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url('../../../assets/img/icons/arrow.svg');
+  background-image: url('../../../../assets/img/icons/arrow.svg');
   align-items: center;
   transition: .25s
 }
 
-.acordeon__container .open .trigger::after{
-  transform: rotate(45deg);
+.accordeon__container .open .trigger::after{
+  transform: rotate(180deg);
 }
 
-.acordeon__container.open,
-.acordeon__container:hover{
+.accordeon__container.open,
+.accordeon__container:hover{
   background-color: #55569E;
   border-color: #55569E;
 }
 
-.acordeon__container .trigger:hover{
+.accordeon__container .trigger:hover{
   cursor: pointer;
 }
 
-.acordeon__container .content{
+.accordeon__container .content{
   overflow:hidden;
   height: 0;
   transition: .25s;
   padding-left: 2rem;
 }
 
-.acordeon__container.open .content{
+.accordeon__container.open .content{
   height: 100%;
   padding-left: 2rem;
 }

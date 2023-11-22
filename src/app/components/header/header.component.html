@@ -1,7 +1,11 @@
 <div class="header__container">
   <app-avatar></app-avatar>
   <div class="header__information">
-    <app-title></app-title>
-    <app-information></app-information>
+    <app-title name="{{perfil?.name}}"></app-title>
+    <app-information
+      job="{{perfil?.job}}"
+      location="{{perfil?.location}}"
+      phone="{{perfil?.phone}}"
+      email="{{perfil?.email}}"></app-information>
   </div>
 </div>

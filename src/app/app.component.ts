@@ -8,9 +8,10 @@ import { Component, OnInit } from '@angular/core';
 
 export class AppComponent implements OnInit {
   title = 'Portfolio de Fernanda Pestana';
-  topics:string[]=[];
 
   ngOnInit(): void {
 
   }
+
+
 }

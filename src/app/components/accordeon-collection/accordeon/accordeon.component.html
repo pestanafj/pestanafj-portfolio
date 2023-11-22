@@ -1,0 +1,16 @@
+<div class="accordeon__container">
+
+  <button class="trigger" type="button">
+      {{accordeonTitle}}
+  </button>
+
+  <div class="content" [ngSwitch]="accordeonTitle">
+    <div *ngSwitchDefault>Carregando...</div>
+    <app-skills-content *ngSwitchCase="'Skills'"></app-skills-content>
+    <app-languages-content *ngSwitchCase="'Idiomas'" ></app-languages-content>
+    <app-education-content *ngSwitchCase="'Educação'" ></app-education-content>
+    <app-portfolio-content *ngSwitchCase="'Portfólio'" ></app-portfolio-content>
+    <app-experiences-content *ngSwitchCase="'Experiência Profissional'" ></app-experiences-content>
+  </div>
+
+</div>
